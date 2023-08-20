@@ -1,3 +1,13 @@
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\logica\Duenio.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\DuenioJpaController.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\igu\VerDatos.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\exceptions\IllegalOrphanException.java
 D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\igu\Principal.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\ControladoraPersistencia.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\logica\Controladora.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\exceptions\NonexistentEntityException.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\exceptions\PreexistingEntityException.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\persistencia\MascotaJpaController.java
 D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\PeluqueriaCanina.java
+D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\logica\Mascota.java
 D:\Documents\NetBeansProjects\PeluqueriaCanina\src\main\java\com\mycompany\peluqueriacanina\igu\CargaDatos.java
